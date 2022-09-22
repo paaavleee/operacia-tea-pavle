@@ -10,3 +10,61 @@
 
 
 /* tea style */
+
+img{
+	width: 350px;
+	height: 350px;
+}
+
+
+.image-block{
+	width: 300px;
+	position: relative;
+	
+
+}
+
+.text{
+	position: absolute;
+	font-size: 16px;
+	bottom:30px;
+	left:20px;
+	text-align:left;
+	width:100%;
+	color: #171717;
+	padding: 15px;
+	background-color: rgb(255,255,255,0.7);
+	border-radius: 12px;
+}
+.middle-text{
+	position: absolute;
+	font-size: 12px;
+	bottom:50px;
+	left:40px;
+	text-align:left;
+	width:80%;
+	color: #171717;
+	padding: 13px;
+	background-color: rgb(255,255,255,0.7);
+	border-radius: 12px;
+}
+
+.article-image{
+	position:absolute;
+	top: 250px;
+	left:200px;
+}
+
+.article-image2{
+     position: absolute;
+     top: 150px;
+     left: 550px;
+}
+
+.article-image3{
+	position: absolute;
+	top: 250px;
+	right: 240px;
+}
+
+
