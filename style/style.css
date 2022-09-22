@@ -5,6 +5,63 @@
 }
 /* pavle style */
 
+.back{
+	width: 100%;
+	position: relative;
+	background-color: #0020F4;
+	margin-top: 100px;
+	padding-top: 70px;
+	padding-bottom: 200px;
+
+}
+
+.container{
+	position: relative;
+	max-width: 1450px;
+	width: 80%;
+	margin: auto;
+	
+}
+
+h3{
+	color: #ffffff;
+    font-family: 'HelveticaNeue';
+}
+
+.project{
+	position: absolute;
+	top:0;
+	left: 0;
+}
+
+.bullets{
+	position: absolute;
+	top: 0;
+	right: 0;
+
+	
+}
+
+
+.white-dot{
+	display: inline-block;
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	background-color: #ffffff;
+
+}
+
+.trans-dot{
+	display: inline-block;
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	background-color: #ffffff;
+	opacity: 30%;
+	margin-left: 20px;
+}
+
 
 
 
